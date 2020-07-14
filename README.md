@@ -14,8 +14,10 @@ The current state of this is *work in progress*, but in order to have something 
 
 Lots of companies around the world do challenges to hire developers. Below we collected some of them for you to play with:
 
-- [https://github.com/ZXVentures/code-challenge](https://github.com/ZXVentures/code-challenge)
-- [https://github.com/grupozap/code-challenge](https://github.com/grupozap/code-challenge)
-- [https://github.com/cubonetwork/fullstack-challenge](https://github.com/cubonetwork/fullstack-challenge)
-- [https://github.com/omise/challenges](https://github.com/omise/challenges)
-
+- [Back-end challenge to work on Juntos Somos +](https://github.com/juntossomosmais/code-challenge)
+- [Front-end challenge to work on Juntos Somos +](https://github.com/juntossomosmais/frontend-challenge)
+- [QA challenge to work on Juntos Somos +](https://github.com/juntossomosmais/code-challenge-qa)
+- https://github.com/ZXVentures/code-challenge
+- https://github.com/ZXVentures/sec-code-challenges
+- https://github.com/cubonetwork/fullstack-challenge
+- https://github.com/omise/challenges
